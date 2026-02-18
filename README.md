@@ -1,0 +1,1 @@
+This project seeks to build a model that can predict whether or not tweets are about real disasters or not. It will do this by participating in the kaggle competition here: https://www.kaggle.com/c/nlp-getting-started/overview. We will investigate various NLP models, include simpleRNN, LSTM, and GRU. 
